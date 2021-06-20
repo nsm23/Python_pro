@@ -1,0 +1,11 @@
+items:
+- computer
+- printer
+- keyboard
+- mouse
+items_price:
+  keyboard: 199rub.-3000rub.
+  mouse: 299rub.-1500rub.
+  printer: 3500rub.-17 000rub.
+  system blok: 45000rub.-150 000rub.
+items_quantity: 4
