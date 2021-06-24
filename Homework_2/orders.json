@@ -1,0 +1,46 @@
+{
+    "orders": [
+        {
+            "item": "Python Professional",
+            "quantity": 25,
+            "price": 900,
+            "buyer": "Sergey",
+            "date": "20.06.2021"
+        },
+        {
+            "item": "Путь Python",
+            "quantity": 50,
+            "price": 1500,
+            "buyer": "Джульен Данжу",
+            "date": "20-06-2021"
+        },
+        {
+            "item": "Python Professional",
+            "quantity": 25,
+            "price": 900,
+            "buyer": "Sergey",
+            "date": "20.06.2021"
+        },
+        {
+            "item": "Путь Python",
+            "quantity": 50,
+            "price": 1500,
+            "buyer": "Джульен Данжу",
+            "date": "20-06-2021"
+        },
+        {
+            "item": "Python Professional",
+            "quantity": 25,
+            "price": 900,
+            "buyer": "Sergey",
+            "date": "20.06.2021"
+        },
+        {
+            "item": "Путь Python",
+            "quantity": 50,
+            "price": 1500,
+            "buyer": "Джульен Данжу",
+            "date": "20-06-2021"
+        }
+    ]
+}
