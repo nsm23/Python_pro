@@ -1,0 +1,67 @@
+2021-06-28 10:05:46,925 - DEBUG      - client - App started
+2021-07-02 18:54:48,877 - DEBUG      - client - App started
+2021-07-02 18:55:12,941 - DEBUG      - client - App started
+2021-07-02 18:55:15,910 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-02 18:58:00,699 - DEBUG      - client - App started
+2021-07-02 18:58:05,556 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-02 18:58:05,556 - INFO       - client - Presence sended to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2021-07-02 18:58:00.684040', 'user': {'account_name': 'serega', 'status': 'Online!'}}
+2021-07-02 19:00:19,452 - DEBUG      - client - App started
+2021-07-02 19:00:23,733 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-02 19:00:23,733 - INFO       - client - Presence sended to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2021-07-02 19:00:19.452625', 'user': {'account_name': 'serega', 'status': 'Online!'}}
+2021-07-02 19:00:23,733 - INFO       - client - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2021-07-02 19:00:14.483723', 'alert': 'Ok!'}
+2021-07-02 19:03:26,002 - DEBUG      - client - App started
+2021-07-02 19:03:30,284 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-02 19:03:30,284 - INFO       - client - Presence sended to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2021-07-02 19:03:25.955762', 'user': {'account_name': '123', 'status': 'Online!'}}
+2021-07-02 19:03:30,284 - INFO       - client - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2021-07-02 19:03:16.293923', 'alert': 'Ok!'}
+2021-07-02 19:03:38,675 - INFO       - client - Data sended to ('127.0.0.1', 7777) : {'action': 'msg', 'time': '2021-07-02 19:03:25.955762', 'message': 'ghbdtn'}
+2021-07-02 19:03:38,675 - INFO       - client - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2021-07-02 19:03:16.293923', 'alert': 'Ok!'}
+2021-07-02 19:03:44,638 - INFO       - client - Data sended to ('127.0.0.1', 7777) : {'action': 'msg', 'time': '2021-07-02 19:03:25.955762', 'message': 'привет'}
+2021-07-02 19:03:44,638 - INFO       - client - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2021-07-02 19:03:16.293923', 'alert': 'Ok!'}
+2021-07-02 19:04:40,719 - INFO       - client - Data sended to ('127.0.0.1', 7777) : {'action': 'msg', 'time': '2021-07-02 19:03:25.955762', 'message': 'привет'}
+2021-07-02 19:04:40,719 - INFO       - client - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2021-07-02 19:03:16.293923', 'alert': 'Ok!'}
+2021-07-08 06:20:26,560 - DEBUG      - client - App started
+2021-07-08 06:20:31,763 - DEBUG      - chat - Function "get_client_socket" is called into "<module>"
+2021-07-08 06:20:31,778 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-08 06:20:31,778 - DEBUG      - chat - Function "send_data" is called into "<module>"
+2021-07-08 06:20:31,778 - INFO       - client - Presence sended to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2021-07-08 06:20:26.560010', 'user': {'account_name': 'serega', 'status': 'Online!'}}
+2021-07-08 06:20:31,778 - DEBUG      - chat - Function "get_data" is called into "<module>"
+2021-07-08 06:20:31,778 - INFO       - client - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2021-07-08 06:20:21.591222', 'alert': 'Ok!'}
+2021-07-12 16:34:09,575 - DEBUG      - client - App started
+2021-07-12 16:34:14,019 - DEBUG      - chat - Function "get_client_socket" is called into "<module>"
+2021-07-12 16:34:14,019 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-12 16:34:14,019 - DEBUG      - chat - Function "send_data" is called into "<module>"
+2021-07-12 16:34:14,019 - INFO       - client - Presence sended to ('127.0.0.1', 7777) : {'action': 'presence', 'time': '2021-07-12 16:34:09.466463', 'user': {'account_name': 'ser', 'status': 'Online!'}}
+2021-07-12 16:34:14,019 - DEBUG      - chat - Function "get_data" is called into "<module>"
+2021-07-12 16:34:14,019 - INFO       - client - Data received from ('127.0.0.1', 7777) : {'response': '200', 'time': '2021-07-12 16:34:03.949004', 'alert': 'Ok!'}
+2021-07-12 17:20:02,819 - DEBUG      - client - App started
+2021-07-12 17:20:06,355 - DEBUG      - chat - Function "get_client_socket" is called into "main"
+2021-07-12 17:20:06,362 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-12 17:20:06,363 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:20:58,776 - DEBUG      - client - App started
+2021-07-12 17:21:02,327 - DEBUG      - chat - Function "get_client_socket" is called into "main"
+2021-07-12 17:21:02,335 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-12 17:21:02,336 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:21:02,355 - DEBUG      - chat - Function "get_data" is called into "main"
+2021-07-12 17:21:02,355 - ERROR      - client - [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2021-07-12 17:22:04,094 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:22:04,097 - DEBUG      - chat - Function "get_data" is called into "main"
+2021-07-12 17:22:14,773 - DEBUG      - client - App started
+2021-07-12 17:22:18,128 - DEBUG      - chat - Function "get_client_socket" is called into "main"
+2021-07-12 17:22:18,135 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-12 17:22:18,136 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:22:29,047 - DEBUG      - client - App started
+2021-07-12 17:22:32,027 - DEBUG      - chat - Function "get_client_socket" is called into "main"
+2021-07-12 17:22:32,034 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-12 17:22:32,038 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:22:55,672 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:24:09,191 - DEBUG      - client - App started
+2021-07-12 17:24:12,614 - DEBUG      - chat - Function "get_client_socket" is called into "main"
+2021-07-12 17:24:12,622 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-12 17:24:12,623 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:24:27,207 - DEBUG      - client - App started
+2021-07-12 17:24:30,717 - DEBUG      - chat - Function "get_client_socket" is called into "main"
+2021-07-12 17:24:30,730 - INFO       - client - Connected to server: 127.0.0.1:7777
+2021-07-12 17:24:30,731 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:24:51,300 - DEBUG      - chat - Function "send_data" is called into "main"
+2021-07-12 17:24:51,301 - DEBUG      - chat - Function "get_data" is called into "main"
+2021-07-12 17:25:00,224 - DEBUG      - chat - Function "send_data" is called into "main"

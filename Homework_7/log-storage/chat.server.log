@@ -1,0 +1,29 @@
+2021-07-12 16:34:03,988 - DEBUG    - server   - App started 
+2021-07-12 16:34:04,068 - DEBUG    - chat     - Function "get_server_socket" is called into "<module>" 
+2021-07-12 16:34:04,083 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-12 16:34:14,019 - INFO     - server   - Client connected from 127.0.0.1:58186 
+2021-07-12 16:34:14,019 - DEBUG    - chat     - Function "get_data" is called into "<module>" 
+2021-07-12 16:34:14,019 - INFO     - server   - Data received from ('127.0.0.1', 58186) : {'action': 'presence', 'time': '2021-07-12 16:34:09.466463', 'user': {'account_name': 'ser', 'status': 'Online!'}} 
+2021-07-12 16:34:14,019 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2021-07-12 16:34:14,019 - INFO     - server   - Data sended to ('127.0.0.1', 58186) : {'response': '200', 'time': '2021-07-12 16:34:03.949004', 'alert': 'Ok!'} 
+2021-07-12 16:34:14,034 - DEBUG    - chat     - Function "get_data" is called into "<module>" 
+2021-07-12 17:19:54,162 - DEBUG    - server   - App started 
+2021-07-12 17:19:54,256 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2021-07-12 17:19:54,264 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-12 17:20:06,362 - INFO     - server   - Client connected from 127.0.0.1:54925 
+2021-07-12 17:21:02,335 - INFO     - server   - Client connected from 127.0.0.1:57380 
+2021-07-12 17:21:02,336 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2021-07-12 17:21:58,600 - DEBUG    - server   - App started 
+2021-07-12 17:21:58,662 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2021-07-12 17:21:58,670 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-12 17:22:18,135 - INFO     - server   - Client connected from 127.0.0.1:61686 
+2021-07-12 17:22:32,034 - INFO     - server   - Client connected from 127.0.0.1:50988 
+2021-07-12 17:22:32,036 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2021-07-12 17:22:32,037 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
+2021-07-12 17:23:51,325 - DEBUG    - server   - App started 
+2021-07-12 17:23:51,375 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2021-07-12 17:23:51,381 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-12 17:24:12,623 - INFO     - server   - Client connected from 127.0.0.1:50303 
+2021-07-12 17:24:30,727 - INFO     - server   - Client connected from 127.0.0.1:50306 
+2021-07-12 17:24:30,728 - DEBUG    - chat     - Function "get_data" is called into "mainloop" 
+2021-07-12 17:24:30,729 - DEBUG    - chat     - Function "send_data" is called into "mainloop" 
