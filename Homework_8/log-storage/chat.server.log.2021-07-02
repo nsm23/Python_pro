@@ -1,0 +1,23 @@
+2021-07-02 18:55:08,066 - DEBUG    - server   - App started 
+2021-07-02 18:55:08,113 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-02 18:55:15,910 - INFO     - server   - Client connected from 127.0.0.1:63358 
+2021-07-02 18:57:55,324 - DEBUG    - server   - App started 
+2021-07-02 18:57:55,355 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-02 18:58:05,556 - INFO     - server   - Client connected from 127.0.0.1:63390 
+2021-07-02 18:58:05,556 - INFO     - server   - Data received from ('127.0.0.1', 63390) : {'action': 'presence', 'time': '2021-07-02 18:58:00.684040', 'user': {'account_name': 'serega', 'status': 'Online!'}} 
+2021-07-02 19:00:14,514 - DEBUG    - server   - App started 
+2021-07-02 19:00:14,561 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-02 19:00:23,733 - INFO     - server   - Client connected from 127.0.0.1:54719 
+2021-07-02 19:00:23,733 - INFO     - server   - Data received from ('127.0.0.1', 54719) : {'action': 'presence', 'time': '2021-07-02 19:00:19.452625', 'user': {'account_name': 'serega', 'status': 'Online!'}} 
+2021-07-02 19:00:23,733 - INFO     - server   - Data sended to ('127.0.0.1', 54719) : {'response': '200', 'time': '2021-07-02 19:00:14.483723', 'alert': 'Ok!'} 
+2021-07-02 19:03:16,387 - DEBUG    - server   - App started 
+2021-07-02 19:03:16,434 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-02 19:03:30,284 - INFO     - server   - Client connected from 127.0.0.1:62978 
+2021-07-02 19:03:30,284 - INFO     - server   - Data received from ('127.0.0.1', 62978) : {'action': 'presence', 'time': '2021-07-02 19:03:25.955762', 'user': {'account_name': '123', 'status': 'Online!'}} 
+2021-07-02 19:03:30,284 - INFO     - server   - Data sended to ('127.0.0.1', 62978) : {'response': '200', 'time': '2021-07-02 19:03:16.293923', 'alert': 'Ok!'} 
+2021-07-02 19:03:38,675 - INFO     - server   - Data received from ('127.0.0.1', 62978) : {'action': 'msg', 'time': '2021-07-02 19:03:25.955762', 'message': 'ghbdtn'} 
+2021-07-02 19:03:38,675 - INFO     - server   - Data sended to ('127.0.0.1', 62978) : {'response': '200', 'time': '2021-07-02 19:03:16.293923', 'alert': 'Ok!'} 
+2021-07-02 19:03:44,638 - INFO     - server   - Data received from ('127.0.0.1', 62978) : {'action': 'msg', 'time': '2021-07-02 19:03:25.955762', 'message': 'привет'} 
+2021-07-02 19:03:44,638 - INFO     - server   - Data sended to ('127.0.0.1', 62978) : {'response': '200', 'time': '2021-07-02 19:03:16.293923', 'alert': 'Ok!'} 
+2021-07-02 19:04:40,719 - INFO     - server   - Data received from ('127.0.0.1', 62978) : {'action': 'msg', 'time': '2021-07-02 19:03:25.955762', 'message': 'привет'} 
+2021-07-02 19:04:40,719 - INFO     - server   - Data sended to ('127.0.0.1', 62978) : {'response': '200', 'time': '2021-07-02 19:03:16.293923', 'alert': 'Ok!'} 

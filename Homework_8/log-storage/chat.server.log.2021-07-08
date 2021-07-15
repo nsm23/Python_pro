@@ -1,0 +1,9 @@
+2021-07-08 06:20:21,653 - DEBUG    - server   - App started 
+2021-07-08 06:20:21,731 - DEBUG    - chat     - Function "get_server_socket" is called into "<module>" 
+2021-07-08 06:20:21,731 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-08 06:20:31,778 - INFO     - server   - Client connected from 127.0.0.1:58808 
+2021-07-08 06:20:31,778 - DEBUG    - chat     - Function "get_data" is called into "<module>" 
+2021-07-08 06:20:31,778 - INFO     - server   - Data received from ('127.0.0.1', 58808) : {'action': 'presence', 'time': '2021-07-08 06:20:26.560010', 'user': {'account_name': 'serega', 'status': 'Online!'}} 
+2021-07-08 06:20:31,778 - DEBUG    - chat     - Function "send_data" is called into "<module>" 
+2021-07-08 06:20:31,794 - INFO     - server   - Data sended to ('127.0.0.1', 58808) : {'response': '200', 'time': '2021-07-08 06:20:21.591222', 'alert': 'Ok!'} 
+2021-07-08 06:20:31,794 - DEBUG    - chat     - Function "get_data" is called into "<module>" 

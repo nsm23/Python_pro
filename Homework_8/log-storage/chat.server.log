@@ -1,0 +1,17 @@
+2021-07-15 19:11:12,236 - DEBUG    - server   - App started 
+2021-07-15 19:11:12,307 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2021-07-15 19:11:24,520 - DEBUG    - server   - App started 
+2021-07-15 19:11:24,614 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2021-07-15 19:11:51,473 - DEBUG    - server   - App started 
+2021-07-15 19:11:51,520 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2021-07-15 19:11:51,536 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-15 19:12:11,655 - INFO     - server   - Client connected from 127.0.0.1:52841 
+2021-07-15 19:12:22,264 - INFO     - server   - Client connected from 127.0.0.1:59307 
+2021-07-15 19:13:49,036 - INFO     - server   - Client connected from 127.0.0.1:64951 
+2021-07-15 19:16:06,923 - INFO     - server   - Client connected from 127.0.0.1:56299 
+2021-07-15 19:16:34,015 - INFO     - server   - Client connected from 127.0.0.1:61439 
+2021-07-15 19:18:09,491 - DEBUG    - server   - App started 
+2021-07-15 19:18:09,569 - DEBUG    - chat     - Function "get_server_socket" is called into "mainloop" 
+2021-07-15 19:18:09,585 - INFO     - server   - Server started at 127.0.0.1:7777 
+2021-07-15 19:19:32,037 - INFO     - server   - Client connected from 127.0.0.1:58844 
+2021-07-15 19:24:25,610 - INFO     - server   - Client connected from 127.0.0.1:63099 
